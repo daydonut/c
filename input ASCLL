@@ -1,0 +1,11 @@
+int main()
+{
+	int a;
+	printf("请输入ASCLL值： \n");
+	scanf("%d", &a);
+	printf("%c\n",a);
+
+	//printf("%c\n",18);//%c是对 对应ASCLL值取代表的字符 
+
+	return 0;
+}
